@@ -1,6 +1,9 @@
 ## Los 40 Comandos de Linux Más Utilizados que Debes Conocer- README.md
-Esta es una plantilla basada en los estándares de la Guía de publicacion de herramientas digitales del BID. Sabemos que no existe un solo estándar para la documentación de soporte y uso de herramientas digitales pero hemos recopilado estas características importantes que debe tener un readme.md para facilitar el uso y amplificar el potencial de impacto de las mismas. Cualquier comentario o recomendación les pedimos generar un issue de consulta o escribirnos directamente a code@iadb.org.
+En el momento de escribir esto, Linux tiene una cuota de mercado mundial del 2,68% en ordenadores de escritorio, pero más del 90% de toda la infraestructura en la nube y los servicios de alojamiento se ejecutan en este sistema operativo. Solo por esta razón, es crucial estar familiarizado con los comandos populares de Linux.
 
+Según la encuesta de StackOverflow de 2020, Linux es el sistema operativo más utilizado por los desarrolladores profesionales, con un impresionante 55,9% de la cuota de mercado. No es solo una coincidencia. Linux es gratuito y de código abierto, tiene mejor seguridad que sus competidores y cuenta con una potente línea de comandos que hace que los desarrolladores y usuarios avanzados sean más eficaces. También tiene acceso a un potente gestor de paquetes y a un montón de herramientas de desarrollo como DevKinsta.
+
+Tanto si eres un administrador de sistemas con experiencia como si eres un recién llegado a Linux, puedes aprovechar esta guía.
 ## ¿Qué es un comando de Linux?
 
 
