@@ -8,7 +8,7 @@ Esta es una plantilla basada en los estándares de la Guía de publicacion de he
 
 <h1 align="center">Nombre de la herramienta</h1>
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
-<p align="center"><img src="https://www.hackaboss.com/blog/github-utilidad-copilot 
+<p align="center"><img src="https://cdn.prod.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg"> 
 
 ## Tabla de contenidos:
 ---
