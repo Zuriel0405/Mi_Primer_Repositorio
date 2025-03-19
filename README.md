@@ -23,7 +23,7 @@ Puedes invocar flags utilizando guiones (-) y guiones dobles (--), mientras que 
 ## Tabla de contenidos:
 ---
 
-- [Los comandos de linux mas utilizados](#descripción-y-contexto)
+- [Los comandos de linux mas utilizados](#Los-comandos-de-linux-mas-utilizados)
 
 ## Los comandos de Linux mas utilizados
 ---
