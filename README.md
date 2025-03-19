@@ -4,7 +4,15 @@ Esta es una plantilla basada en los estándares de la Guía de publicacion de he
 ## ¿Qué es un comando de Linux?
 
 
-*Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](https://code.iadb.org)*
+*Un comando Linux es un programa o utilidad que se ejecuta en la línea de comandos. Una línea de comandos es una interfaz que acepta líneas de texto y las procesa en forma de instrucciones para tu ordenador.
+
+Cualquier interfaz gráfica de usuario (GUI) no es más que una abstracción de los programas de línea de comandos. Por ejemplo, cuando cierras una ventana haciendo clic en la «X», hay un comando que se ejecuta detrás de esa acción.
+
+Un flag es una forma de pasar opciones al comando que se ejecuta. La mayoría de los comandos de Linux tienen una página de ayuda que podemos llamar con la flag -h. La mayoría de las veces, las flag son opcionales.
+
+Un argument o parámetro es la input que damos a un comando para que pueda ejecutarse correctamente. En la mayoría de los casos, el argumento es una ruta de archivo, pero puede ser cualquier cosa que se escriba en el terminal.
+
+Puedes invocar flags utilizando guiones (-) y guiones dobles (--), mientras que la ejecución de los argumentos depende del orden en que los pase a la función. **. 
 
 <h1 align="center">Nombre de la herramienta</h1>
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
