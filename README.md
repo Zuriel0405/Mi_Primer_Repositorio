@@ -16,7 +16,7 @@ Puedes invocar flags utilizando guiones (-) y guiones dobles (--), mientras que 
 
 <h1 align="center">Nombre de la herramienta</h1>
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
-<p align="center"><img src="https://cdn.prod.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg"> 
+<p align="center"><img src="(https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2023/08/linux-commands.png)"> 
 
 ## Tabla de contenidos:
 ---
