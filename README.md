@@ -17,24 +17,15 @@ Un argument o parámetro es la input que damos a un comando para que pueda ejecu
 
 Puedes invocar flags utilizando guiones (-) y guiones dobles (--), mientras que la ejecución de los argumentos depende del orden en que los pase a la función. **. 
 
-<h1 align="center">Nombre de la herramienta</h1>
+<h1 align="center"> LINUX </h1>
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
 <p Alinear="Centro"><Img Src="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2023/08/linux-commands.png">                         
 ## Tabla de contenidos:
 ---
 
-- [Badges o escudos](#badges-o-escudos)
-- [Descripción y contexto](#descripción-y-contexto)
-- [Guía de usuario](#guía-de-usuario)
-- [Guía de instalación](#guía-de-instalación)
-- [Cómo contribuir](#cómo-contribuir)
-- [Código de conducta](#código-de-conducta)
-- [Autor/es](#autores)
-- [Información adicional](#información-adicional)
-- [Licencia](#licencia)
-- [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
+- [Los comandos de linux mas utilizados](#descripción-y-contexto)
 
-## Badges o escudos
+## Los comandos de Linux mas utilizados
 ---
 Es común en muchos repositorios open source el uso de badges o escudos para dar visbilidad el uso de microservicios, licencias, descargas, etc. Recomendamos revisar la iniciativa https://shields.io/ donde según consideres necesario podrás generar badges para tu repo. 
 
